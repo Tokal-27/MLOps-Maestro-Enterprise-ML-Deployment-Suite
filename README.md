@@ -3,7 +3,9 @@
 
 A comprehensive MLOps project covering ML model deployment, API development, containerization, and cloud deployment on AWS.
 
-![Project Banner](./images/banner.png)
+Project Banner
+<img width="1005" height="689" alt="Screenshot 2025-10-07 092428" src="https://github.com/user-attachments/assets/fe8d7e3c-62e2-4383-8d5e-3e2e77b958bb" />
+
 
 ## 🚀 Project Overview
 
@@ -95,7 +97,10 @@ cd 09-Deploy_ML_Model_at_AWS_EC2_Server_with_Streamlit/
 streamlit run streamlit_app.py
 ```
 
-![Streamlit Interface](./images/streamlit-interface.png)
+Streamlit Interface
+
+![WhatsApp Image 2025-09-10 at 15 47 46_1628f748](https://github.com/user-attachments/assets/bee56aeb-8b96-4542-851d-46e0f28a41b1)
+
 
 ## 🐳 Docker Deployment
 
@@ -180,9 +185,6 @@ docker push your-account-id.dkr.ecr.region.amazonaws.com/ml-app:latest
 
 
 
-![Contributing Flow](./images/contributing-flow.png)
-
-
 
 ## 📞 Contact
 
@@ -192,5 +194,6 @@ For questions or feedback, reach out to:
 - Email: emady5578@gmail.com
 
 ---
+
 
 

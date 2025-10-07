@@ -20,24 +20,23 @@ This repository contains implementations of:
 - Docker Containerization
 - AWS Cloud Deployment
 
-## 📦 Project Structure
+## 📦 Project Steps
 
 ```sh
 .
-├── 01-Introduction_to_ML_Ops_and_Pipeline/
-├── 05-Sentiment_Classification/
-├── 06-Disaster_Tweets_Classification/
-├── 07-Human_Pose_Classification/
-├── 09-Deploy_ML_Model_at_AWS_EC2_Server_with_Streamlit/
-├── 10_11-ML_Model_Serving_Over_REST_API_for_Production/
-├── 12-Deploy_ML_Model_with_Docker_and_FastAPI/
-├── 13-Package_ML_App_as_Docker_Image/
-└── 14-Deploy_ML_App_Docker_with_ECR_and_ECS/
+├── 01-Sentiment_Classification/
+├── 02-Disaster_Tweets_Classification/
+├── 03-Human_Pose_Classification/
+├── 04-Deploy_ML_Model_at_AWS_EC2_Server_with_Streamlit/
+├── 05-ML_Model_Serving_Over_REST_API_for_Production/
+├── 06-Deploy_ML_Model_with_Docker_and_FastAPI/
+├── 07-Package_ML_App_as_Docker_Image/
+└── 08-Deploy_ML_App_Docker_with_ECR_and_ECS/
 ```
 
 ## 🛠 Tech Stack
 
-- **ML/DL**: TensorFlow, PyTorch
+- **ML/DL**: TensorFlow, PyTorch 
 - **API**: FastAPI
 - **Frontend**: Streamlit
 - **Container**: Docker
@@ -197,6 +196,7 @@ For questions or feedback, reach out to:
 - Email: emady5578@gmail.com
 
 ---
+
 
 
 

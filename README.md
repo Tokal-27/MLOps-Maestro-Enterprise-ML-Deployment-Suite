@@ -38,6 +38,7 @@ This repository contains implementations of:
 
 - **ML/DL**: TensorFlow, PyTorch 
 - **API**: FastAPI
+- **LB & Proxy** : Nginx
 - **Frontend**: Streamlit
 - **Container**: Docker
 - **Cloud**: AWS (EC2, ECR, ECS)
@@ -196,6 +197,7 @@ For questions or feedback, reach out to:
 - Email: emady5578@gmail.com
 
 ---
+
 
 
 

@@ -1,7 +1,7 @@
 ﻿# MLOps Maestro: Enterprise ML Deployment Suite
 
 
-A comprehensive MLOps project covering ML model deployment, API development, containerization, and cloud deployment on AWS.
+A End-To-End MLOps project covering ML model deployment, API development, containerization, and cloud deployment on AWS.
 
 Project Banner
 <img width="1005" height="689" alt="Screenshot 2025-10-07 092428" src="https://github.com/user-attachments/assets/fe8d7e3c-62e2-4383-8d5e-3e2e77b958bb" />
@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 ```sh
 # Navigate to model training directory
-cd 05-Sentiment_Classification/
+cd Sentiment_Classification/
 
 # Run training script
 python train.py
@@ -81,7 +81,7 @@ Training metrics visualization:
 
 ```sh
 # Navigate to API directory
-cd 10_11-ML_Model_Serving_Over_REST_API_for_Production/
+cd ML_Model_Serving_Over_REST_API_for_Production/
 
 # Start FastAPI server
 uvicorn main:app --reload
@@ -93,7 +93,7 @@ uvicorn main:app --reload
 
 ```sh
 # Navigate to Streamlit app directory
-cd 09-Deploy_ML_Model_at_AWS_EC2_Server_with_Streamlit/
+cd Deploy_ML_Model_at_AWS_EC2_Server_with_Streamlit/
 
 # Run Streamlit app
 streamlit run streamlit_app.py
@@ -196,6 +196,7 @@ For questions or feedback, reach out to:
 - Email: emady5578@gmail.com
 
 ---
+
 
 
 

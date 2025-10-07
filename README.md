@@ -7,7 +7,10 @@ Project Banner
 <img width="1005" height="689" alt="Screenshot 2025-10-07 092428" src="https://github.com/user-attachments/assets/fe8d7e3c-62e2-4383-8d5e-3e2e77b958bb" />
 
 
-## 🚀 Project Overview
+## 🚀 Project Overview & Steps
+
+![diagram-export-10-7-2025-9_15_48-AM](https://github.com/user-attachments/assets/9d7545e5-dfc4-4d26-8cf8-14bcd86467db)
+
 
 This repository contains implementations of:
 - Sentiment Classification using TinyBERT
@@ -194,6 +197,7 @@ For questions or feedback, reach out to:
 - Email: emady5578@gmail.com
 
 ---
+
 
 
 
